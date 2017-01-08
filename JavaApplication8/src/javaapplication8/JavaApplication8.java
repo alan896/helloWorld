@@ -17,7 +17,8 @@ public class JavaApplication8 {
     public static void main(String[] args) {
         // Modificado desde git(Remote/Pull)
         //Modificado desde pc(Remote/push) 
-        System.out.println("Hola Mundo :3");
+        System.out.println("Hola Mundo :v");
+        //modificado
     }
     
 }
